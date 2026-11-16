@@ -2,31 +2,6 @@
   "expo": {
     "name": "FriendCall",
     "slug": "friendcall",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "automatic",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#0B192C"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.adhm.friendcall"
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0B192C"
-      },
-      "package": "com.adhm.friendcall"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "version": "1.0.0"
   }
 }
